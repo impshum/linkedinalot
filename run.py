@@ -62,7 +62,7 @@ def runner(email, password, max_scroll, max_follow, min_sleep, max_sleep, test_m
             c += 1
             print(f'Following {c}/{max_follow}')
             sleep(randint(min_sleep, max_sleep))
-            if not max_follow:
+            if c >= max_follow:
                 break
 
 
