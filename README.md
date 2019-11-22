@@ -21,6 +21,7 @@ Follows users on Linkedin on a daily schedule.
 - ```min_sleep``` min sleep between follows
 - ```max_sleep``` max sleep between follows
 - ```test_mode``` runs without following anyone
+- Windows users see this post to enable colours in your terminal/prompt: https://recycledrobot.co.uk/words/?print-python-colours
 
 #### Disclaimer
 
