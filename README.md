@@ -26,3 +26,7 @@ Follows users on Linkedin on a daily schedule.
 #### Disclaimer
 
 Using this script might get you banned from LinkedIn. If this happens I will not be held responsible. Have a nice day!
+
+---
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
